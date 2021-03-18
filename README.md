@@ -160,7 +160,10 @@ So as you can see that, wordpress application is launched in slave1 and mysql da
 
 Below Gif will give you an idea about what we have done till now.
 
-![Helm Architecture](https://miro.medium.com/max/750/1*TKMiqtUIINFb0Ec3dlT2Ug.gif)
+<p align="center">
+  <img width="460" height="300" src="https://miro.medium.com/max/750/1*TKMiqtUIINFb0Ec3dlT2Ug.gif">
+</p>
+
 
 If you wanted to install helm on redhat then click [here](https://access.redhat.com/documentation/en-us/openshift_container_platform/4.3/html/cli_tools/helm-cli).
 ![Happy Helming !!](https://miro.medium.com/max/875/1*o5zsUx6fNtYq7cIlXOYcuA.jpeg)
