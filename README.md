@@ -1,6 +1,10 @@
 # DEPLOYING-A-WORDPRESS-APPLICATION-WITH-MYSQL-DATABASE-IN-K8S-Cluster-USING-HELM-ON-AWS
 
-![helm](https://miro.medium.com/max/875/1*_NyGhMp13Ptu_RK0dSCI3Q.jpeg)
+<p align="center">
+  <img width="900" height="400" src="https://miro.medium.com/max/875/1*_NyGhMp13Ptu_RK0dSCI3Q.jpeg">
+</p>
+
+
 ## Helm 
 is a tool to manage applications within Kubernetes. You can easily deploy charts with your application information, allowing them to be up and preconfigured in minutes within your Kubernetes environment. When you’re learning something new, it’s always helpful to look at chart examples to see how they are used, so if you have time, take a look at these stable charts.
 In a Helm-deployed application, list provides details about an application’s current release. Running the basic list command always brings up the default namespace. Since I don’t have anything deployed in the default namespace, nothing shows up:
@@ -30,7 +34,7 @@ So, take a loot at below image you will get to know the flow of helm infrastruct
 ![source: helm charts documentation](https://miro.medium.com/max/625/1*LY7Q9SQ21cpOLdc8X1gPNA.jpeg)
 
 <p align="center">
-  <img width="700" height="400" src="https://miro.medium.com/max/875/1*rEs9UlN8Gj9_4E7KrFG7OQ.jpeg">
+  <img width="800" height="400" src="https://miro.medium.com/max/875/1*rEs9UlN8Gj9_4E7KrFG7OQ.jpeg">
 </p>
 
 
