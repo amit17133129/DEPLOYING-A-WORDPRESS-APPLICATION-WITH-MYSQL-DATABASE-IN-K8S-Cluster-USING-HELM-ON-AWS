@@ -29,7 +29,11 @@ So, take a loot at below image you will get to know the flow of helm infrastruct
 
 ![source: helm charts documentation](https://miro.medium.com/max/625/1*LY7Q9SQ21cpOLdc8X1gPNA.jpeg)
 
-![Helm Infrasctructure](https://miro.medium.com/max/875/1*rEs9UlN8Gj9_4E7KrFG7OQ.jpeg)
+<p align="center">
+  <img width="700" height="400" src="https://miro.medium.com/max/875/1*rEs9UlN8Gj9_4E7KrFG7OQ.jpeg">
+</p>
+
+
 As you can see that i have created a directory named “myapp” and inside that we need to create respective folders like “Chart.yaml”, “values.yaml” and a template folder which will consists of launching wordpress app and mysql database and to expose the wordpress press we need to use service.yml file. Below are the codes of template folder.
 ## WordPress Code:
 
@@ -161,9 +165,11 @@ So as you can see that, wordpress application is launched in slave1 and mysql da
 Below Gif will give you an idea about what we have done till now.
 
 <p align="center">
-  <img width="460" height="300" src="https://miro.medium.com/max/750/1*TKMiqtUIINFb0Ec3dlT2Ug.gif">
+  <img width="700" height="400" src="https://miro.medium.com/max/750/1*TKMiqtUIINFb0Ec3dlT2Ug.gif">
 </p>
 
 
 If you wanted to install helm on redhat then click [here](https://access.redhat.com/documentation/en-us/openshift_container_platform/4.3/html/cli_tools/helm-cli).
-![Happy Helming !!](https://miro.medium.com/max/875/1*o5zsUx6fNtYq7cIlXOYcuA.jpeg)
+<p align="center">
+  <img width="900" height="400" src="https://miro.medium.com/max/875/1*o5zsUx6fNtYq7cIlXOYcuA.jpeg">
+</p>
