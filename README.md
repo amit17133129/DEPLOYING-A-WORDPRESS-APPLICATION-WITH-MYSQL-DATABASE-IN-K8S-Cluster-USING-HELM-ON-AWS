@@ -151,6 +151,9 @@ myapp/ → Name of the folder in which Chart.yaml, template, values.yaml file ex
 ```
 ![launching app](https://miro.medium.com/max/875/1*-N91Tv1HqvDruO7cZvUssw.jpeg)
 
+As you can see that the application has been deployed. Now we can check the wordpress application. you (node on which wordpress is deployed) public ip with exposed port.
+![wordpress](https://miro.medium.com/max/875/1*9clOPUVgjwM10KuC4mEH5g.jpeg)
+
 As you can see that the application has been deployed. You can check the list of helm you have using `helm list` command. Now we can check the the pods in which slave are running in the kubernetes cluster.
 
 ![helm list](https://miro.medium.com/max/875/1*wmAstug0hzaWsMSFNaCHfQ.jpeg)
